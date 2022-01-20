@@ -1,0 +1,24 @@
+/.ipynb_checkpoints/
+/data/
+/venv/
+/01 - Flights Solution.ipynb
+/02 - Regression.ipynb
+/04 - Clustering Challenge.ipynb
+/04 - Clustering Solution.ipynb
+/05a - Deep Neural Networks (PyTorch).ipynb
+/05a - Deep Neural Networks (TensorFlow).ipynb
+/05b - Convolutional Neural Networks (PyTorch).ipynb
+/05c - Transfer Learning (PyTorch).ipynb
+/Distillation_Column_data.bak
+/Distillation_Column_data.xls
+/Flights.ipynb
+/Kolumna stabilizacji ropy.ipynb
+/legia_vs_wisla.ipynb
+/main.py
+/pandas.ipynb
+/penguin_classifier.pt
+/Real Estate Regression.ipynb
+/real_estate_model.pkl
+/Stabilizacja ropy surowej_parametry.xls
+/Wine Classification.ipynb
+/wine_classifer.pkl
